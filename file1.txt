@@ -6,4 +6,8 @@
  <p>hello</p>
  </body>
  </html>
+
+D:\gitRep\firstDir>git remote add origin https://github.com/Anjani178/myRep.git
+
+D:\gitRep\firstDir>git push -u origin master
  
