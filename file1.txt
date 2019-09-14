@@ -10,4 +10,7 @@
 D:\gitRep\firstDir>git remote add origin https://github.com/Anjani178/myRep.git
 
 D:\gitRep\firstDir>git push -u origin master
+
+https://github.community/t5/Support-Protips/The-difference-between-forking-and-cloning-a-repository/ba-p/1372
+
  
